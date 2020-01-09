@@ -47,7 +47,7 @@ body {
 }
 
 .header__item:last-child {
-margin-right: 0px;
+    margin-right: 0px;
 }
 
 .header__link {
@@ -58,7 +58,7 @@ margin-right: 0px;
 }
 
 .header__link:hover, .header__link:focus, .header__link:active {
-opacity: .75;
+    opacity: .75;
 }
 
 /* Header style END!!! */
